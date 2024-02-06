@@ -1,0 +1,1 @@
+var json_highway_residential_5 = {"type":"FeatureCollection","name":"highway_residential_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","full_id":"n1733287501","osm_id":"1733287501","osm_type":"node","traffic_calming":"yes"},"geometry":{"type":"Point","coordinates":[81.593856,54.341571]}}]}

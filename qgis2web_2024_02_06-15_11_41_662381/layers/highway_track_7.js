@@ -1,0 +1,1 @@
+var json_highway_track_7 = {"type":"FeatureCollection","name":"highway_track_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","full_id":"n1976223163","osm_id":"1976223163","osm_type":"node","barrier":"gate"},"geometry":{"type":"Point","coordinates":[81.5817955,54.3500323]}}]}
